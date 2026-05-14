@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">⚡ NexusApp</string>
+    <string name="navigation_drawer_open">Ouvrir le menu</string>
+    <string name="navigation_drawer_close">Fermer le menu</string>
+    <string name="nav_header_title">NexusApp</string>
+    <string name="nav_header_subtitle">nexus@studio.dev</string>
+</resources>
